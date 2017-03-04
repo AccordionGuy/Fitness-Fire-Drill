@@ -2,8 +2,8 @@
 
 ![Fitness Fire Drill running in a GM NGI console](http://www.globalnerdy.com/wordpress/wp-content/uploads/2017/03/fitness-fire-drill-in-dash.jpg)
 
-This app, written for the NGI (Next Generation Infotainment) platform in GM’s new cars, acts as a referee for the classic car game, “Fire Drill”, where a car’s passengers stop, get out of the vehicle, circle it, and return to their seats. Fitness Fire Drill adds a timer, which challenges players to improve their time, and uses the NGI’s door open/closed sensors to determine when the fire drill is complete.
+This app, written for the [NGI (Next Generation Infotainment) platform](http://www.globalnerdy.com/2017/02/27/build-your-first-app-for-gms-next-generation-infotainment-ngi-in-car-platform/) in GM’s new cars, acts as a referee for [the classic car game, “Fire Drill”](http://www.npr.org/sections/codeswitch/2013/10/31/228876599/what-s-so-chinese-about-a-chinese-fire-drill), where a car’s passengers stop, get out of the vehicle, circle it, and return to their seats. Fitness Fire Drill adds a timer, which challenges players to improve their time, and uses the NGI’s door open/closed sensors to determine when the fire drill is complete.
 
 The app runs in the center console of an NGI-equipped GM car, as shown in the photo above. With the doors closed, one of the players in the front seats presses the “Start” button. That’s when the fire drill begins, and everyone runs around the car. The timer stops when everyone has returned to their seat and closed their door.
 
-This app was written as a submission for GM’s “Makers Hustle Harder” hackathon, which took place on March 4, 2017 at Tampa Hackerspace, and whose purpose was to encourage the development of apps for GM’s NGI platform.
+This app was written as a submission for [GM’s “Makers Hustle Harder” hackathon](https://www.meetup.com/Tampa-Hackerspace/events/236850195/), which took place on March 4, 2017 at [Tampa Hackerspace](http://tampahackerspace.com/), and whose purpose was to encourage the development of apps for GM’s NGI platform.
