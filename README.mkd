@@ -1,6 +1,6 @@
 # Fitness Fire Drill
 
-![[Fitness Fire Drill running in a GM NGI console](http://www.globalnerdy.com/wordpress/wp-content/uploads/2017/03/fitness-fire-drill-in-dash.jpg)
+![Fitness Fire Drill running in a GM NGI console](http://www.globalnerdy.com/wordpress/wp-content/uploads/2017/03/fitness-fire-drill-in-dash.jpg)
 
 This app, written for the NGI (Next Generation Infotainment) platform in GM’s new cars, acts as a referee for the classic car game, “Fire Drill”, where a car’s passengers stop, get out of the vehicle, circle it, and return to their seats. Fitness Fire Drill adds a timer, which challenges players to improve their time, and uses the NGI’s door open/closed sensors to determine when the fire drill is complete.
 
