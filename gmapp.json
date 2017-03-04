@@ -1,0 +1,13 @@
+{
+  "name":"Fire Drill",
+  "id":"91493679",
+  "version": "0.0.0",
+  "src": "src",
+  "dist": "dist",
+  "main": "index.html",
+  "icon": "Icon.png",
+  "developer": "Joey deVilla",
+  "category": "General",
+  "type": "Local",
+  "description": "Generated on 3/3/2017, 11:25:18 PM by ngi-sdk version "
+}
